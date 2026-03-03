@@ -1,4 +1,4 @@
-module github.com/hashicorp/terraform-registry-address
+module github.com/straubt1/terraform-registry-address
 
 go 1.25.0
 
